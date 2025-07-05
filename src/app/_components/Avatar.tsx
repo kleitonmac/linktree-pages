@@ -4,7 +4,7 @@ export default function Avatar() {
   return (
     <div className="flex flex-col items-center">
       <Image 
-        src="/h4k.png"
+        src="/kleitonsn.jpg"
         width={150}
         height={100}
         alt="avatar"
@@ -13,7 +13,7 @@ export default function Avatar() {
       
       <div className="text-center mt-4">
         <h2 className="text-zinc-100 font-mono text-md mt-2">
-         THIAGO H4K
+         Kleiton Macedo
         </h2>    
       </div>
     </div>
