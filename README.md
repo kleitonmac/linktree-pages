@@ -2,6 +2,8 @@
 
 <img src="/print.png">
 
+Hospedagem do site: bit.ly/iamkleiton
+
 Este projeto é uma aplicação desenvolvida com **React.js** que simula uma página de links pessoais, como o Linktree. O objetivo é reunir todos os seus links importantes (redes sociais, portfólio, contatos, etc.) em uma única página responsiva e moderna.
 
 ## 🔥 Funcionalidades
