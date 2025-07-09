@@ -23,7 +23,7 @@ export default function NavBar() {
                      <CustomLink href="https://www.instagram.com/iamkleiton/">Instagram</CustomLink>
                      <CustomLink href="https://www.facebook.com/kleiton.santosmacedo">Facebook</CustomLink>
                      <CustomLink href="https://wa.me/5527981911375">WhatsApp</CustomLink>
-                     <CustomLink href="https://github.com/kleitonmac">GitHub</CustomLink>
+                     <CustomLink href="https://github.com/kleitonmac/About">GitHub</CustomLink>
                      <CustomLink href="https://www.linkedin.com/in/kleitonmacedo/">Linkedin</CustomLink>
                </div>
            </ul>
