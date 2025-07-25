@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Kleiton Macedo",
+  title: "@iamkleiton",
   description: "Link para as minhas principais redes sociais",
 };
 
