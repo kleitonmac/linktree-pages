@@ -2,19 +2,19 @@
 
 Site simples para reunir todos os meus perfis e contatos em um só lugar.
 
-![screenshot](screenshot.png)
+![screenshot](image.png)
 
 ## 💡 Sobre o projeto
 
 Este projeto é uma alternativa gratuita ao site Linktree, totalmente personalizável.
 
-- [Site no Ar](https://kleitondev.vercel.app/)
+- [Site no Ar](https://kleiton-linktree.vercel.app//)
 
 ## 🚀 Como usar
 
 1. Clone ou baixe o projeto para sua máquina:
 ```bash
-git clone https://github.com/DhominySan/linktree
+git clone https://github.com/kleitonmac/linktree-pages.git
 ```
 2. Abra a pasta do projeto no [Visual Studio Code](https://code.visualstudio.com/).
 3. Para visualizar, utilize a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ou abra o arquivo `index.html` diretamente no navegador.
